@@ -1,2 +1,8 @@
 .env
 node_modules
+
+
+kennethnwosu2_db_user
+HM4enrX8uPMNFPjX
+
+mongodb+srv://<db_username>:HM4enrX8uPMNFPjX@cluster0.xc9lvbe.mongodb.net/
